@@ -6,6 +6,7 @@ long int fact(int n)
 	if(n<0)
 	{
 		printf("No fatorial for ngative\n");
+		printf("No fatorial for ngative\n");
 		exit(1);
 	}
 	else if(n==0)

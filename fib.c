@@ -10,6 +10,7 @@ void fib(int n)
 	{
 		z=x+y;
 		printf("%ld",z);
+		printf("%ld",z);
 		x=y;
 		y=z;
 	}
